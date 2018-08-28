@@ -5,13 +5,19 @@
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
 @title[the plan]
-### the plan
+#### the plan
 - Everything happens..._________?
-- 
-- Story Maps/Examples
-- GIS Resources @ UofL
+- What's in a GIS?
+- Remote Sensing Basics
+- Putting it together
+- Geography @ UofL
 ---
-### what is gis? 
+#### Complete the following statement...
+> "Everything happens _____________"
++++
+> "Everything happens SOMEWHERE!"
+---
+#### what is gis? 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
 ###### -Environmental Research Systems Institute (ESRI)
 +++
@@ -23,27 +29,7 @@
 +++
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
----
-### gis support for environmental policy 
-### Research and Practice
-+++
-##### asset mapping
-- Data collection using GPS equipment
-- Digitized from existing plans/blueprints
-- Provide representation of spatial distribution of assets/hazards
-+++
-@title[asset mapping example]
-![Fire Map](images/firemap.JPG)
----
-##### risk/vulnerability modeling
-- Combine various natural and social components of risk or vulnerability to environmental hazards to provide composite picture of risk/vulnerability.
-- Reduce technical information into more meaningful and actionable knowledge for decision/policy makers
-+++
-@title[risk modeling example]
-- Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
-![Risk Mapping](images/risk.jpg | width=75)
-- Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
----
+
 ##### demographic analysis
 - Where are vulnerable populations located?
 - How do environmental hazards differential impact different social groups
@@ -73,7 +59,8 @@ https://ejscreen.epa.gov/mapper/
 @title[story map example 3]
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=307e73fffa6f4206b9d356459998b607"></iframe>
 ---
-##### gis resources @ uofl
+##### geography @ uofl
+- 
 - UofL Center for GIS
 > @size[.6em](Established in 1996, the mission of the University of Louisville Center for Geographic Information Sciences is to provide instruction, applications, and research in geographic information systems technology.  The resources of the Center for GIS are available to professional staff, students, and faculty to provide service and products to individuals and agencies of the University, and the local and state community.)
 +++
