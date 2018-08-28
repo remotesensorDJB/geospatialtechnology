@@ -1,6 +1,6 @@
 @title[geospatial technologies]
 ### GIS and Geospatial Technologies 
-### @fa[globe-americas]
+### @fa[globe]
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
