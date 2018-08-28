@@ -72,19 +72,34 @@ GIS and Geospatial Technologies
 - query land record to identify landowners for call list
 ![Scenario 5](images/scenario-5.JPG | width=70)
 ---
-##### Some GIS Applications
-
+#### Common GIS Applications
+##### Demographic Mapping/Social Sciences
 - Where are vulnerable populations located?
 - How do environmental hazards differential impact different social groups
 - Environmental Justice? 
 +++
 @title[demographic mapping example]
+[Demographic Mapper](http://www.ulcgis.org/flexviewers/KIPDA_Map)
 ![](images/demographic.JPG)
 +++
 @title[environmental justice example]
 https://ejscreen.epa.gov/mapper/
 ![](images/env_justice.JPG | width=70)
----
++++
+##### Site Selection
+- Where should a new business be located?
+  - Where are the customers?
+  - How far will they have to travel? 
+  - Will they buy your product?
+  - Where is the competition located?
++++
+##### Example: Food Deserts
+![Food Deserts Video](images/Food_deserts.mp4)
+##### Logistics/Transportation
+- How can we minimize transportation costs?
+- What is the best route for the UPS truck?
+- Do we need a new TARC route due to population growth? 
++++
 ##### information dissemination/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
