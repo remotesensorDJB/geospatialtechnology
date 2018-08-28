@@ -104,7 +104,7 @@ https://ejscreen.epa.gov/mapper/
 ##### Example: UPS Logistics Operations
 > [The Geospatial Revolution: Your Next Job](https://ket.pbslearningmedia.org/asset/psu10sci_int_geospatial_yournextjob/)
 +++
-##### information dissemination/storytelling
+##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
 - Effective and engaging communication in a web browser
@@ -119,7 +119,10 @@ https://ejscreen.epa.gov/mapper/
 +++
 @title[story map example 3]
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=307e73fffa6f4206b9d356459998b607"></iframe>
----
++++
+##### 1,000 Uses for GIS
+There are literally thousands of ways to use GIS to answer questions, create new knowledge, and help people understand their world a little better!
+https://gisgeography.com/gis-applications-uses/ 
 ##### geography @ uofl
 - 
 - UofL Center for GIS
