@@ -1,15 +1,13 @@
-@title[gis resources @ uofl]
-### GIS/Geospatial Technology 
-### Resources
-#### @ UofL
-@fa[globe-americas]
+@title[geospatial technologies]
+### GIS and Geospatial Technologies 
+### @fa[globe-americas]
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
 @title[the plan]
 ### the plan
-- What is GIS?
-- GIS in support of env. policy research & practice
+- Everything happens..._________?
+- 
 - Story Maps/Examples
 - GIS Resources @ UofL
 ---
