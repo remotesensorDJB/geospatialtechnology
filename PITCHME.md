@@ -16,7 +16,25 @@
 > "Everything happens ..."
 +++
 > "Everything happens SOMEWHERE!"
++++
+#### Geography is...
++++
+#### Geography is...
+
+> Geography is the study of places and the relationships between people and their environments. Geographers explore both the physical properties of Earth’s surface and the human societies spread across it. They also examine how human culture interacts with the natural environment, and the way that locations and places can have an impact on people. Geography seeks to understand where things are found, why they are there, and how they develop and change over time. 
+- [National Geographic Society](https://www.nationalgeographic.org/encyclopedia/geography/)
++++
+#### The spatial perspective
+- Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY in understanding the whole picture.
+- Spatial analysis is the framework we use to answer geographic questions
+- Geographic Information Systems (GIS) is the tool we use to do spatial analysis!
 ---
+#### A Scenario!
+- A dangerous chemical spills from a local factory, threatening the surrounding neighborhoods!
+- The chemical spill will affect all residents within 1 mile of the factory
+- But! Because the chemical flows downhill, houses that are on higher ground are safe!
+- Who do we need to evacuate? 
+--- 
 #### what is gis? 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
 ###### -Environmental Research Systems Institute (ESRI)
@@ -29,7 +47,26 @@
 +++
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
-
++++
+#### Our Scenario...
+- A dangerous chemical spills from a local factory, threatening the surrounding neighborhoods!
+- The chemical spill will affect all residents within 1 mile of the factory
+- But! Because the chemical flows downhill, houses that are on higher ground are safe!
+- Who do we need to evacuate?
++++
+![Scenario 1](images/scenario-1.JPG)
++++
+- 1 mile buffer around site
+![Scenario 2](images/scenario-2.JPG)
++++
+- select buildings with elevation > factory
+![Scenario 3](images/scenario-3.JPG)
++++
+- select buildings with elevation > factory
+![Scenario 4](images/scenario-4.JPG)
++++
+- query land record to identify landowners for call list
+![Scenario 5](images/scenario-5.JPG)
 ##### demographic analysis
 - Where are vulnerable populations located?
 - How do environmental hazards differential impact different social groups
