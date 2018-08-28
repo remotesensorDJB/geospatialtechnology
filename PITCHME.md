@@ -94,7 +94,8 @@ https://ejscreen.epa.gov/mapper/
   - Where is the competition located?
 +++
 ##### Example: Food Deserts
-![Food Deserts Video](images/Food_deserts.mp4)
+> [The Geospatial Revolution: Food Deserts](https://ket.pbslearningmedia.org/resource/psu10sci.vid.geospatial.fooddeserts/geospatial-revolution-food-deserts/?)
++++
 ##### Logistics/Transportation
 - How can we minimize transportation costs?
 - What is the best route for the UPS truck?
