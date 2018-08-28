@@ -45,6 +45,9 @@
 @title[gis database concept]
 ![GIS Database Link](images/link.png)
 +++
+@title[gis layers concept]
+![GIS Layers Concept](images/GIS-layers.jpg)
++++
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
 +++
