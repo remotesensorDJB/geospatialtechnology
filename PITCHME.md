@@ -57,19 +57,19 @@
 - But! Because the chemical flows downhill, houses that are on higher ground are safe!
 - Who do we need to evacuate?
 +++
-![Scenario 1](images/scenario-1.JPG)
+![Scenario 1](images/scenario-1.JPG | width=70)
 +++
 - 1 mile buffer around site
-![Scenario 2](images/scenario-2.JPG)
+![Scenario 2](images/scenario-2.JPG | width=70)
 +++
 - select buildings with elevation > factory
-![Scenario 3](images/scenario-3.JPG)
+![Scenario 3](images/scenario-3.JPG | width=70)
 +++
 - select buildings with elevation > factory
-![Scenario 4](images/scenario-4.JPG)
+![Scenario 4](images/scenario-4.JPG | width=70)
 +++
 - query land record to identify landowners for call list
-![Scenario 5](images/scenario-5.JPG)
+![Scenario 5](images/scenario-5.JPG | width=70)
 ##### demographic analysis
 - Where are vulnerable populations located?
 - How do environmental hazards differential impact different social groups
