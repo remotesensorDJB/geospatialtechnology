@@ -13,7 +13,7 @@
 - Geography @ UofL
 ---
 #### Complete the following statement...
-> "Everything happens _____________"
+> "Everything happens ..."
 +++
 > "Everything happens SOMEWHERE!"
 ---
