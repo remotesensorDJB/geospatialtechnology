@@ -123,6 +123,7 @@ https://ejscreen.epa.gov/mapper/
 ##### 1,000 Uses for GIS
 There are literally thousands of ways to use GIS to answer questions, create new knowledge, and help people understand their world a little better!
 https://gisgeography.com/gis-applications-uses/ 
+---
 ##### geography @ uofl
 - 
 - UofL Center for GIS
