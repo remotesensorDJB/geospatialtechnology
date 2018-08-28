@@ -1,5 +1,6 @@
 @title[geospatial technologies]
-### GIS and Geospatial Technologies 
+GIS and Geospatial Technologies 
+===============================
 ### @fa[globe fa-5x]
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
@@ -51,7 +52,7 @@
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
 +++
-#### Our Scenario...
+##### Our Scenario...
 - A dangerous chemical spills from a local factory, threatening the surrounding neighborhoods!
 - The chemical spill will affect all residents within 1 mile of the factory
 - But! Because the chemical flows downhill, houses that are on higher ground are safe!
@@ -62,7 +63,7 @@
 - 1 mile buffer around site
 ![Scenario 2](images/scenario-2.JPG | width=70)
 +++
-- select buildings with elevation > factory
+- select buildings with elevation < factory
 ![Scenario 3](images/scenario-3.JPG | width=70)
 +++
 - select buildings with elevation > factory
@@ -70,7 +71,9 @@
 +++
 - query land record to identify landowners for call list
 ![Scenario 5](images/scenario-5.JPG | width=70)
-##### demographic analysis
+---
+##### Some GIS Applications
+
 - Where are vulnerable populations located?
 - How do environmental hazards differential impact different social groups
 - Environmental Justice? 
