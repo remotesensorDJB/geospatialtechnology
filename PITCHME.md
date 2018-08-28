@@ -101,6 +101,9 @@ https://ejscreen.epa.gov/mapper/
 - What is the best route for the UPS truck?
 - Do we need a new TARC route due to population growth? 
 +++
+##### Example: UPS Logistics Operations
+> [The Geospatial Revolution: Your Next Job](https://ket.pbslearningmedia.org/asset/psu10sci_int_geospatial_yournextjob/)
++++
 ##### information dissemination/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
@@ -109,7 +112,6 @@ https://ejscreen.epa.gov/mapper/
 
 +++
 @title[story map example 1]
--Familiar Examples? 
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
 +++
 @title[story map example 2]
