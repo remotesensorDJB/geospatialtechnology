@@ -10,7 +10,6 @@ GIS and Geospatial Technologies
 - Everything happens..._________?
 - What's in a GIS?
 - Remote Sensing Basics
-- Putting it together
 - Geography @ UofL
 ---
 #### Complete the following statement...
