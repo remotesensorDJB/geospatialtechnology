@@ -124,17 +124,80 @@ https://ejscreen.epa.gov/mapper/
 There are literally thousands of ways to use GIS to answer questions, create new knowledge, and help people understand their world a little better!
 https://gisgeography.com/gis-applications-uses/ 
 ---
-##### geography @ uofl
-- 
-- UofL Center for GIS
-> @size[.6em](Established in 1996, the mission of the University of Louisville Center for Geographic Information Sciences is to provide instruction, applications, and research in geographic information systems technology.  The resources of the Center for GIS are available to professional staff, students, and faculty to provide service and products to individuals and agencies of the University, and the local and state community.)
+@title[remote sensing basics]
+#### remote sensing
+> Remote sensing is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation
+- Lillesand et al., 2008
+- What does that mean?? 
 +++
-@title[ulcgis continued]
-- Maintain software licenses and hardware
-- Support faculty and student research
-- Offer training, both academic courses and web-based tutorials
-- Data liasion: can help you find the data you are looking for
+@title[measurement from distance]
+Hearing, seeing, smelling are all remote sensing, but here we focus on one kind: 
+Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.
++++
+@title[measurement from distance]
+Specifically, we will focus on observations of Earth’s land and water surfaces by means of reflected and emitted electromagnetic energy
++++
+@title[measurement from distance]
+Remote sensing is an applied science and is a tool to help understand other fields such as ecology, climatology, geology, soil science and hydrology
++++
+@title[remote sensing platforms]
+![RS platforms from space](images/satellites.JPG)
++++
+@title[remote sensing platforms]
+![RS platforms](images/platforms.JPG)
++++
+@title[remote sensing platforms]
+![RS applications](images/applications.JPG)
 ---
+##### geography @ uofl
+- Do you love computers? 
+- Do you love graphics/art/design?
+- Do you love video games/vr?
+- Do you love nature/outdoors? 
++++
+##### geography @ uofl
+##### you would LOVE geography!
++++
+##### You will learn...
+- How to make maps
+- How to fly drones
+- How to analyze satellite imagery
+- How to code computer programs
+- How to build 3D models
++++
+##### Degrees Offered
+- B.S. in Applied Geography
+  - Environmental Analysis
+  - Geospatial Technologies
+  - Human and Cultural Dynamics
+  - Urban Analysis 
+- Certificate in Geospatial Technologies
++++
+### Projects you could be involved in!
++++
+##### [WorldPop Population Modeling](http://www.worldpop.org.uk/)
+![WorldPop](images/worldpop.jpg)
++++
+##### Urban Hydrology 
+![Urban Water Quality](images/urban_water.jpg)
++++
+##### [Climate Change Science](http://louisville.edu/artsandsciences/news/all/Mountain)
+![Mountain on a Glacier](images/mountain.jpeg)
++++
+##### UAS Research in Africa
+![Africa Fieldwork](images/africa.JPG | width = 70)
++++
+##### [Chasing Tornados](http://louisville.edu/artsandsciences/news/all/storm-chasers-2018)
+![Storm Chaser](images/storms.jpeg)
++++
+##### [Urban Development/Social Justice](http://louisville.edu/artsandsciences/news/all/walker-and-hanchette)
+![Urban Dev](images/urban.jpeg)
++++
+##### [Immigrant and Refugee Support](https://www.citylab.com/life/2017/03/the-tech-promising-to-help-immigrants-push-back-on-trump/519993/)
+![Immigrant](images/immigrant.png)
+##### For More Info
+- On the web: https://www.louisville.edu/geogeo
+- [Send us an email!](https://louisville.edu/geogeo/contact-us/email-the-department)
 ---
 @title[helpful links]
 - http://www.louisville.edu/geogeo
