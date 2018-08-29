@@ -57,6 +57,7 @@ GIS and Geospatial Technologies
 - But! Because the chemical flows downhill, houses that are on higher ground are safe!
 - Who do we need to evacuate?
 +++
+@transition[fade]
 ![Scenario 1](images/scenario-1.JPG | width=70)
 +++
 @transition[fade]
