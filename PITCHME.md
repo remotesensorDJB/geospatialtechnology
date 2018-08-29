@@ -186,7 +186,7 @@ Remote sensing is an applied science and is a tool to help understand other fiel
 ![Urban Water Quality](images/urban_water.jpg)
 +++
 ##### UAS and Stream Ecology
-![Stonecoal Video](https://www.youtube.com/embed/oggkjrZpJgk)
+![Stonecoal Video](https://youtu.be/gHZW0ufTZLY)
 +++
 ##### [Climate Change Science](http://louisville.edu/artsandsciences/news/all/Mountain)
 ![Mountain on a Glacier](images/mountain.jpeg)
