@@ -185,7 +185,7 @@ Remote sensing is an applied science and is a tool to help understand other fiel
 ![Mountain on a Glacier](images/mountain.jpeg)
 +++
 ##### UAS Research in Africa
-![Africa Fieldwork](images/africa.jpg | width = 70)
+![Africa Fieldwork](images/africa.jpg)
 +++
 ##### [Chasing Tornados](http://louisville.edu/artsandsciences/news/all/storm-chasers-2018)
 ![Storm Chaser](images/storms.jpeg)
