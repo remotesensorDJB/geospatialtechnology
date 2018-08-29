@@ -200,9 +200,9 @@ Remote sensing is an applied science and is a tool to help understand other fiel
 - [Send us an email!](https://louisville.edu/geogeo/contact-us/email-the-department)
 ---
 @title[helpful links]
+##### Some useful links
 - http://www.louisville.edu/geogeo
 - https://www.esri.com
-- https://www.esri.com/training
 - https://www.arcgis.com
 - https://storymaps.arcgis.com
 - https://storymap.knightlab.com/ (Open Source Story Mapping)
