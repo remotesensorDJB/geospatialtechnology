@@ -68,7 +68,7 @@ With these questions in mind...
 #### Mapwoman to the rescue!
 ![Map Woman](images/mapwoman.jpg)
 --- 
-#### what's in a gis? 
+#### what's a gis? 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
 ###### -Environmental Research Systems Institute (ESRI)
 +++
@@ -89,7 +89,7 @@ With these questions in mind...
 +++
 ##### Our Scenario...
 - A dangerous chemical spills from a local factory, threatening the surrounding neighborhoods!
-- The chemical spill will affect all residents within 1 mile of the factory
+- The chemical spill will affect all residents within one mile of the factory
 - But! Because the chemical flows downhill, houses that are on higher ground are safe!
 - Who do we need to evacuate?
 +++
@@ -116,8 +116,8 @@ With these questions in mind...
 +++
 ##### Demographic Mapping/Social Sciences
 - Where are vulnerable populations located?
-- How do environmental hazards differential impact different social groups
-- Environmental Justice? 
+- How do environmental hazards disproportionately impact different social groups
+- Environmental justice? 
 +++
 @title[demographic mapping example]
 [Demographic Mapper](http://www.ulcgis.org/flexviewers/KIPDA_Map)
@@ -132,6 +132,18 @@ https://ejscreen.epa.gov/mapper/
 - Land cover change analysis
 - Natural hazards vulnerability 
 - Climate change monitoring
++++
+Habitat suitability modeling
+![Habitat model](https://www.biodiversityscience.com/files/2011/04/BS2_SDMfigure1resized.jpg)
+https://www.biodiversityscience.com/2011/04/27/species-distribution-modelling/
++++
+Hazards mapping
+![Hazards map](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/landslides-nationalmap.jpg)
+https://www.usgs.gov/media/images/national-landslide-hazards-map
++++
+Climate change monitoring
+![Arctic sea ice](https://media.giphy.com/media/l2SpLN6gQZm9A43ZK/giphy.gif)
+https://www.nasa.gov/feature/goddard/2016/arctic-sea-ice-annual-minimum-ties-second-lowest-on-record/
 +++
 ##### Site Selection
 - Where should a new business be located?
