@@ -134,10 +134,12 @@ https://ejscreen.epa.gov/mapper/
 - Climate change monitoring
 +++
 Habitat suitability modeling
+
 ![Habitat model](https://www.biodiversityscience.com/files/2011/04/BS2_SDMfigure1resized.jpg)
 https://www.biodiversityscience.com/2011/04/27/species-distribution-modelling/
 +++
 Hazards mapping
+
 ![Hazards map](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/landslides-nationalmap.jpg)
 https://www.usgs.gov/media/images/national-landslide-hazards-map
 +++
