@@ -9,8 +9,7 @@ GIS and Geospatial Technologies
 #### the plan
 - Everything happens..._________?
 - What's in a GIS?
-- Remote Sensing Basics
-- Geography @ UofL
+- GIS data basics
 ---
 #### Complete the following statement...
 > "Everything happens ..."
@@ -28,25 +27,40 @@ GIS and Geospatial Technologies
 - Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY in understanding the whole picture.
 - Spatial analysis is the framework we use to answer geographic questions
 - Geographic Information Systems (GIS) is the tool we use to do spatial analysis!
----
++++
+#### Where? questions...
+> @size[.6em](A GIS lets us ask many geographic questions, like...)
+- Where is it? What area does it cover? (**spatial questions**)
+- What is there? How much is there? (**attribute questions**)
+- How have the location or attributes changed over time? (**temporal questions**)
++++
+#### More questions...
+> @size[.6em](when considering multiple geographic entities...)
+- Do they overlap? 
+- Are they connected to one another? 
+- Are they within a certain distance of each other?
+- Do they share the same attributes? Where? 
++++
+With these questions in mind...
++++
 #### A Scenario!
 - A dangerous chemical spills from a local factory, threatening the surrounding neighborhoods!
 - The chemical spill will affect all residents within 1 mile of the factory
 - But! Because the chemical flows downhill, houses that are on higher ground are safe!
 - Who do we need to evacuate? 
 --- 
-#### what is gis? 
+#### what's in a gis? 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
 ###### -Environmental Research Systems Institute (ESRI)
 +++
 @title[gis components]
 ![GIS Components](images/components.jpg)
 +++
-@title[gis database concept]
-![GIS Database Link](images/link.png)
-+++
 @title[gis layers concept]
 ![GIS Layers Concept](images/GIS-layers.jpg)
++++
+@title[gis database concept]
+![GIS Database Link](images/link.png)
 +++
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
@@ -128,97 +142,7 @@ https://ejscreen.epa.gov/mapper/
 There are literally thousands of ways to use GIS to answer questions, create new knowledge, and help people understand their world a little better!
 https://gisgeography.com/gis-applications-uses/ 
 ---
-@title[remote sensing basics]
-#### remote sensing
-> Remote sensing is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation
-- Lillesand et al., 2008
-- What does that mean?? 
-+++
-@title[measurement from distance]
-Hearing, seeing, smelling are all remote sensing, but here we focus on one kind: 
-Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.
-+++
-@title[measurement from distance]
-Specifically, we will focus on observations of Earth’s land and water surfaces by means of reflected and emitted electromagnetic energy
-+++
-@title[measurement from distance]
-Remote sensing is an applied science and is a tool to help understand other fields such as ecology, climatology, geology, soil science and hydrology
-+++
-@title[remote sensing platforms]
-![RS platforms from space](images/satellites.JPG)
-+++
-@title[remote sensing platforms]
-![RS platforms](images/platforms.JPG)
-+++
-@title[remote sensing platforms]
-![RS applications](images/applications.JPG)
----
-##### geography @ uofl
-- Do you love computers? 
-- Do you love graphics/art/design?
-- Do you love video games/vr?
-- Do you love nature/outdoors? 
-+++
-##### geography @ uofl
-##### you would LOVE geography!
-+++
-##### You will learn...
-- How to make maps
-- How to fly drones
-- How to analyze satellite imagery
-- How to code computer programs
-- How to build 3D models
-+++
-##### Degrees Offered
-- B.S. in Applied Geography
-  - Environmental Analysis
-  - Geospatial Technologies
-  - Human and Cultural Dynamics
-  - Urban Analysis 
-- Certificate in Geospatial Technologies
-+++
-### Projects you could be involved in!
-+++
-##### [WorldPop Population Modeling](http://www.worldpop.org.uk/)
-![WorldPop](images/worldpop.jpg)
-+++
-##### Urban Hydrology 
-![Urban Water Quality](images/urban_water.jpg)
-+++
-##### UAS and Stream Ecology
-![Stonecoal Video](https://www.youtube.com/embed/gHZW0ufTZLY)
-+++
-##### [Climate Change Science](http://louisville.edu/artsandsciences/news/all/Mountain)
-![Mountain on a Glacier](images/mountain.jpeg)
-+++
-##### UAS Research in Africa
-![Africa Fieldwork](images/africa.jpg)
-+++
-##### [Chasing Tornados](http://louisville.edu/artsandsciences/news/all/storm-chasers-2018)
-![Storm Chaser](images/storms.jpeg)
-+++
-##### [Urban Development/Social Justice](http://louisville.edu/artsandsciences/news/all/walker-and-hanchette)
-![Urban Dev](images/urban.jpeg)
-+++
-##### [Immigrant and Refugee Support](https://www.citylab.com/life/2017/03/the-tech-promising-to-help-immigrants-push-back-on-trump/519993/)
-![Immigrant](images/immigrant.png)
-+++
-##### For More Info
-- On the web: https://www.louisville.edu/geogeo
-- [Send us an email!](https://louisville.edu/geogeo/contact-us/email-the-department)
----
-@title[helpful links]
-##### Some useful links
-- http://www.louisville.edu/geogeo
-- https://www.esri.com
-- https://www.arcgis.com
-- https://storymaps.arcgis.com
-- https://storymap.knightlab.com/ (Open Source Story Mapping)
-- https://qgis.org/ (Open Source Desktop GIS)
-+++
-@title[questions?]
-### Any questions? 
-Please email me at <djbidd01@louisville.edu>
+
 
 	
 
