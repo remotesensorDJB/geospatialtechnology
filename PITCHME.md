@@ -73,7 +73,8 @@ With these questions in mind...
 ###### -Environmental Research Systems Institute (ESRI)
 +++
 ##### A brief history of GIS mapping
-![GIS History](https://drive.google.com/file/d/14NXbB7lDR-LTifBCatXSAXXGFQzf1EGU/view)
+![GIS History](https://drive.google.com/file/d/14NXbB7lDR-LTifBCatXSAXXGFQzf1EGU/preview)
++++
 @title[gis components]
 ![GIS Components](images/components.jpg)
 +++
