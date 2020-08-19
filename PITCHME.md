@@ -28,7 +28,7 @@ GIS and Geospatial Technologies
 - Spatial analysis is the framework we use to answer geographic questions
 - Geographic Information Systems (GIS) is the tool we use to do spatial analysis!
 +++
-#### spatial analysis
+#### The OG spatial analysis
 "You know ~~nothing~~ *where it's at* Jon Snow"
 ![Jon Snow](https://media.giphy.com/media/13f5iwTRuiEjjW/giphy.gif)
 +++
@@ -38,6 +38,8 @@ GIS and Geospatial Technologies
 +++
 #### It's all too real today...
 ![Stefan](https://media.giphy.com/media/E99OMc6pkdvGw/giphy.gif)
++++
+<iframe class="stretch" data-src="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"></iframe>
 +++
 ### Spatial analysis, in simple terms...
 +++
