@@ -89,10 +89,12 @@ With these questions in mind...
 +++
 #### GIS functions to...
 
-1) Capture data...*through digitizing, georeferencing, or gps*
-2) Store and manage data...*in a geodatabase*
-3) Analyze data...*by querying and geoprocessing*
-4) Display data...*in maps, dashboards, and web apps*
+@ol
+1. Capture data...*through digitizing, georeferencing, or gps*
+1. Store and manage data...*in a geodatabase*
+1. Analyze data...*by querying and geoprocessing*
+1. Display data...*in maps, dashboards, and web apps*
+@olend
 +++
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
