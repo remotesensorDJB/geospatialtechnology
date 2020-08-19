@@ -30,7 +30,16 @@ GIS and Geospatial Technologies
 +++
 #### spatial analysis
 "You know ~~nothing~~ *where it's at* Jon Snow"
+![Jon Snow](https://media.giphy.com/media/13f5iwTRuiEjjW/giphy.gif)
++++
 ![Video](https://www.youtube.com/embed/VJ86D_DtyWg)
++++
+<iframe class="stretch" data-src="https://www.arcgis.com/apps/MapJournal/index.html?appid=781630562fea4ad88e94bd22e161ba06&webmap=f4d1c17a8f1544c8903060a1e329103a"></iframe>
++++
+#### It's all too real today...
+![Stefan](https://media.giphy.com/media/E99OMc6pkdvGw/giphy.gif)
++++
+### Spatial analysis, in simple terms...
 +++
 #### Where? questions...
 > @size[.6em](A GIS lets us ask many geographic questions, like...)
@@ -46,6 +55,7 @@ GIS and Geospatial Technologies
 - Are they connected to one another? 
 - Are they within a certain distance of each other?
 - Do they share the same attributes? Where? 
+- How do nearby things relate to each other? 
 +++
 With these questions in mind...
 +++
@@ -99,7 +109,8 @@ With these questions in mind...
 - query land record to identify landowners for call list
 ![Scenario 5](images/scenario-5.JPG | width=70)
 ---
-#### Common GIS Applications
+### Common GIS Applications
++++
 ##### Demographic Mapping/Social Sciences
 - Where are vulnerable populations located?
 - How do environmental hazards differential impact different social groups
@@ -112,6 +123,12 @@ With these questions in mind...
 @title[environmental justice example]
 https://ejscreen.epa.gov/mapper/
 ![](images/env_justice.JPG | width=70)
++++
+##### Physical Sciences
+- Species habitat mapping/modeling
+- Land cover change analysis
+- Natural hazards vulnerability 
+- Climate change monitoring
 +++
 ##### Site Selection
 - Where should a new business be located?
@@ -128,8 +145,7 @@ https://ejscreen.epa.gov/mapper/
 - What is the best route for the UPS truck?
 - Do we need a new TARC route due to population growth? 
 +++
-##### Example: UPS Logistics Operations
-> [The Geospatial Revolution: Your Next Job](https://ket.pbslearningmedia.org/asset/psu10sci_int_geospatial_yournextjob/)
+
 +++
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
@@ -150,6 +166,9 @@ https://ejscreen.epa.gov/mapper/
 ##### 1,000 Uses for GIS
 There are literally thousands of ways to use GIS to answer questions, create new knowledge, and help people understand their world a little better!
 https://gisgeography.com/gis-applications-uses/ 
++++
+### What is GIS to YOU? 
+Let's use the remainder of the class to share our perspectives on GIS from our own interests...
 ---
 
 
