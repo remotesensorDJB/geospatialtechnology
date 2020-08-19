@@ -30,12 +30,14 @@ GIS and Geospatial Technologies
 +++
 #### Where? questions...
 > @size[.6em](A GIS lets us ask many geographic questions, like...)
+
 - Where is it? What area does it cover? (**spatial questions**)
 - What is there? How much is there? (**attribute questions**)
 - How have the location or attributes changed over time? (**temporal questions**)
 +++
 #### More questions...
 > @size[.6em](when considering multiple geographic entities...)
+
 - Do they overlap? 
 - Are they connected to one another? 
 - Are they within a certain distance of each other?
