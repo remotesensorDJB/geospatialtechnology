@@ -154,15 +154,24 @@ https://www.nasa.gov/feature/goddard/2016/arctic-sea-ice-annual-minimum-ties-sec
   - Will they buy your product?
   - Where is the competition located?
 +++
-##### Example: Food Deserts
-> [The Geospatial Revolution: Food Deserts](https://ket.pbslearningmedia.org/resource/psu10sci.vid.geospatial.fooddeserts/geospatial-revolution-food-deserts/?)
+Site selection
+
+![Site Selection](https://www.caliper.com/maptitude/sitelocation/xmaptitude-gis-retail-site-selection-process.jpg.pagespeed.ic.qYwqBcKz74.webp)
+https://www.caliper.com/maptitude/sitelocation/default.htm
++++
+Mapping food deserts
+
+<iframe src="https://drive.google.com/file/d/1SPhagEvoAj19Cfx-W5IKE2cin6iVFKj1/preview" width="640" height="480"></iframe>
 +++
 ##### Logistics/Transportation
 - How can we minimize transportation costs?
 - What is the best route for the UPS truck?
 - Do we need a new TARC route due to population growth? 
 +++
+Vehicle routing
 
+![Logistics GIS](https://www.caliper.com/graphics/truck-routing-software-caliper.jpg)
+https://www.caliper.com/products/gis-logistics-mapping-software.htm
 +++
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
