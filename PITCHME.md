@@ -67,8 +67,7 @@ With these questions in mind...
 - But! Because the chemical flows downhill, houses that are on higher ground are safe!
 - Who do we need to evacuate? 
 +++
-#### Mapwoman to the rescue!
-![Map Woman](images/mapwoman.jpg)
+### Spatial questions...special tools. GIS!
 --- 
 #### what's a gis? 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
@@ -86,6 +85,15 @@ With these questions in mind...
 @title[gis database concept]
 ![GIS Database Link](images/link.png)
 +++
+### So what can it do??
++++
+#### GIS functions to...
+
+1) Capture data...*through digitizing, georeferencing, or gps*
+2) Store and manage data...*in a geodatabase*
+3) Analyze data...*by querying and geoprocessing*
+4) Display data...*in maps, dashboards, and web apps*
++++
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
 +++
@@ -95,7 +103,11 @@ With these questions in mind...
 - But! Because the chemical flows downhill, houses that are on higher ground are safe!
 - Who do we need to evacuate?
 +++
+#### Mapwoman to the rescue!
+![Map Woman](images/mapwoman.jpg)
++++
 @transition[fade]
+- our scenario
 ![Scenario 1](images/scenario-1.JPG | width=70)
 +++
 @transition[fade]
