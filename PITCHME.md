@@ -42,14 +42,14 @@ GIS and Geospatial Technologies
 ### Spatial analysis, in simple terms...
 +++
 #### Where? questions...
-> @size[.6em](A GIS lets us ask many geographic questions, like...)
+A GIS lets us ask many geographic questions, like...
 
 - Where is it? What area does it cover? (**spatial questions**)
 - What is there? How much is there? (**attribute questions**)
 - How have the location or attributes changed over time? (**temporal questions**)
 +++
 #### More questions...
-> @size[.6em](when considering multiple geographic entities...)
+when considering multiple geographic entities...
 
 - Do they overlap? 
 - Are they connected to one another? 
