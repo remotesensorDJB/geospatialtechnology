@@ -9,7 +9,7 @@ GIS and Geospatial Technologies
 #### the plan
 - Everything happens..._________?
 - What's in a GIS?
-- GIS data basics
+- Discussion: What is GIS to YOU?
 ---
 #### Complete the following statement...
 > "Everything happens ..."
